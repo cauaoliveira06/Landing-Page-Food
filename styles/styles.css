@@ -81,10 +81,12 @@ section {
 }
 
 .section-title {
+  text-align: center;
   color: #e9a209;
   font-size: 1.563rem;
 }
 
 .section-subtitle {
+  text-align: center;
   font-size: 2.1875rem;
 }
